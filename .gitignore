@@ -1,3 +1,4 @@
 .stack-work/
 thinking-with-types.cabal
 *~
+.DS_Store
